@@ -1,0 +1,14 @@
+# Frontend
+client/node_modules
+client/dist
+
+# Backend
+server/node_modules
+
+# Environment files
+client/.env
+server/.env
+
+# OS files
+.DS_Store
+Thumbs.db
