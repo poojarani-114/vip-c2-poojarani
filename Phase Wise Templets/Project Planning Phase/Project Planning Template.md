@@ -18,79 +18,24 @@ Maximum Marks
 
 5 Marks
 
-__Product Backlog, Sprint Schedule, and Estimation \(4 Marks\)__
+__Product Backlog, Sprint Schedule, and Estimation (4 Marks)__
 
 Use the below template to create product backlog and sprint schedule
 
-__Sprint__
-
-__Functional Requirement \(Epic\)__
-
-__User Story Number__
-
-__User Story / Task__
-
-__Story Points__
-
-__Priority__
-
-__Team IDs__
-
-Sprint\-1
-
-Registration
-
-USN\-1
-
-As a user, I can register for the application by entering my email, password, and confirming my password\.
-
-2
-
-High
-
-Sprint\-1
-
-USN\-2
-
-As a user, I will receive confirmation email once I have registered for the application
-
-1
-
-High
-
-Sprint\-2
-
-USN\-3
-
-As a user, I can register for the application through Facebook
-
-2
-
-Low
-
-Sprint\-1
-
-USN\-4
-
-As a user, I can register for the application through Gmail
-
-2
-
-Medium
-
-Sprint\-1
-
-Login
-
-USN\-5
-
-As a user, I can log into the application by entering email & password
-
-1
-
-High
-
-Dashboard
+| Sprint | Functional Requirement (Epic) | User Story Number | User Story / Task | Story Points | Priority | Team IDs |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Sprint-1** | User Authentication | **USN-1** | As a user, I can register for the application with username, email, and password. | 3 | High | pabbathireddy pooja rani |
+| **Sprint-1** | User Authentication | **USN-2** | As a user, I can log into the application using email and password to receive a JWT. | 2 | High | pabbathireddy pooja rani |
+| **Sprint-1** | Security & Context | **USN-3** | As a developer, I want AuthContext and Axios interceptors to secure private client routes. | 3 | High | pabbathireddy pooja rani |
+| **Sprint-2** | Product Catalog | **USN-4** | As a developer, I want to create MongoDB schemas and seed products for catalog pages. | 2 | Medium | pabbathireddy pooja rani |
+| **Sprint-2** | Product Catalog | **USN-5** | As a customer, I can browse a list of products and view detailed product info pages. | 3 | High | pabbathireddy pooja rani |
+| **Sprint-2** | Catalog Filtering | **USN-6** | As a customer, I can filter products by category and sort by price, ratings, or discounts. | 4 | High | pabbathireddy pooja rani |
+| **Sprint-3** | Cart Management | **USN-7** | As a customer, I can add, update, and remove items in my persistent cart. | 3 | High | pabbathireddy pooja rani |
+| **Sprint-3** | Cart Management | **USN-8** | As a customer, I can see my cart details, item quantities, and subtotal dynamically computed. | 2 | High | pabbathireddy pooja rani |
+| **Sprint-3** | Order Checkout | **USN-9** | As a customer, I can fill out my address, select a payment option, and submit an order. | 4 | High | pabbathireddy pooja rani |
+| **Sprint-4** | Admin Dashboard | **USN-10** | As an admin, I can log into a role-guarded dashboard to manage inventory products. | 4 | High | pabbathireddy pooja rani |
+| **Sprint-4** | Admin Controls | **USN-11** | As an admin, I can create and delete products, and customize the store banner or categories. | 5 | High | pabbathireddy pooja rani |
+| **Sprint-4** | Admin Monitoring | **USN-12** | As an admin, I can view all placed orders in the system to verify transaction details. | 3 | Medium | pabbathireddy pooja rani |
 
 __Project Tracker, Velocity & Burndown Chart: \(4 Marks\)__
 

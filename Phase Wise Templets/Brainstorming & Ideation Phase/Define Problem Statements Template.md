@@ -36,19 +36,19 @@ __Example:__
 
 Description automatically generated]
 
-__Problem Statement \(PS\)__
+__Problem Statement (PS)__
 
-__I am \(Customer\)__
+### PS-1: Customer Experience
+* **I am:** A digital shopper looking for fashion, electronics, and daily essentials online.
+* **I'm trying to:** Browse a diverse catalog, filter products by category, sort them by price or ratings, and buy items using a persistent, secure virtual shopping cart and checkout.
+* **But:** Existing local online storefronts are slow, lack real-time stock feedback, and lose shopping cart items when pages refresh.
+* **Because:** They lack a modern single-page-app layout and robust state-persistence connected to a scalable real-time database.
+* **Which makes me feel:** Frustrated, impatient, and hesitant to complete the purchase, resulting in cart abandonment.
 
-__I’m trying to__
-
-__But__
-
-__Because__
-
-__Which makes me feel__
-
-PS\-1
-
-PS\-2
+### PS-2: Store Administrator Control
+* **I am:** An e-commerce store inventory manager.
+* **I'm trying to:** Add new products, manage current inventory counts, adjust active discount offers, and monitor system-wide orders.
+* **But:** Modifying catalog details or viewing customer transactions requires direct database access or manual backend interventions.
+* **Because:** There is no dedicated admin control panel or secure role-based dashboard for content and order tracking.
+* **Which makes me feel:** Stressed, unproductive, and prone to causing database inconsistency or incorrect seeding.
 
