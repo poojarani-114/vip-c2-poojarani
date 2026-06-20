@@ -6,13 +6,13 @@ Date
 
 18 June 2026
 
-Team Member
+Team ID
 
-Suraparaju Baavya sree (Full Stack Developer)
+pabbathireddy pooja rani
 
 Project Name
 
-TrendMarket - Online E-Commerce Platform
+ShopEZ
 
 Maximum Marks
 
@@ -21,7 +21,7 @@ Maximum Marks
 __Brainstorm & Idea Prioritization Template:__
 
 ### 1. Introduction & Overview
-In the initial brainstorming and ideation phase, we analyzed the online retail space to identify current pain points experienced by small-to-medium retail vendors and modern digital shoppers. The goal was to conceptualize a comprehensive, secure, and user-friendly Web Application ("TrendMarket") using the MERN stack that solves real-world transaction, stock tracking, and user retention challenges.
+In the initial brainstorming and ideation phase, we analyzed the online retail space to identify current pain points experienced by small-to-medium retail vendors and modern digital shoppers. The goal was to conceptualize a comprehensive, secure, and user-friendly Web Application ("ShopEZ") using the MERN stack that solves real-world transaction, stock tracking, and user retention challenges.
 
 __Step-1: Team Gathering, Collaboration and Select the Problem Statement__
 
@@ -62,7 +62,7 @@ To evaluate the viability and sequence of feature development, we mapped the bra
 | **Idea F (Stock Alert Flags)** | Low | Medium | Should-Have (Sprint 4) | Quick-win warning system for administrators to restock products. |
 
 ### 5. Step-4: Selection of Final Solution
-Based on the prioritization matrix, we selected the final configuration for TrendMarket:
+Based on the prioritization matrix, we selected the final configuration for ShopEZ:
 
-*   **Name**: TrendMarket
+*   **Name**: ShopEZ
 *   **Scope**: A responsive MERN stack web app featuring secure HttpOnly cookie session management, dynamic client-side catalog search, interactive shipping/billing checkouts, and a unified administrator panel managing inventory CRUD operations, order validations, and user accounts.

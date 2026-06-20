@@ -4,7 +4,7 @@ Date
 
 Team ID
 
-p.poojarani
+pabbathireddy pooja rani
 
 Project Name
 
@@ -120,7 +120,7 @@ BG\-001
 
 __Sign\-off:__
 
-Tester Name: p.poojarani
+Tester Name: pabbathireddy pooja rani
 
 Date: \[Date of Test Completion\]
 

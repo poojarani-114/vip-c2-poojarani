@@ -8,7 +8,7 @@ Date
 
 Team ID
 
-p.poojarani
+pabbathireddy pooja rani
 
 Project Name
 
@@ -34,7 +34,7 @@ __Story Points__
 
 __Priority__
 
-__Team Members__
+__Team IDs__
 
 Sprint\-1
 
