@@ -4,7 +4,7 @@ Date
 
 Team ID
 
-mandala nandu yadav
+pabbathireddy pooja rani
 
 Project Name
 
@@ -61,11 +61,11 @@ __Bug Tracking:__
 
 __Sign-off:__
 
-Tester Name: mandala nandu yadav
+Tester Name: pabbathireddy pooja rani
 
 Date: 20 June 2026
 
-Signature: mandala nandu yadav
+Signature: pabbathireddy pooja rani
 
 __Notes:__
 

@@ -8,7 +8,7 @@ Date
 
 Team ID
 
-mandala nandu yadav
+pabbathireddy pooja rani
 
 Project Name
 
@@ -24,18 +24,18 @@ Use the below template to create product backlog and sprint schedule
 
 | Sprint | Functional Requirement (Epic) | User Story Number | User Story / Task | Story Points | Priority | Team IDs |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Sprint-1** | User Authentication | **USN-1** | As a user, I can register for the application with username, email, and password. | 3 | High | mandala nandu yadav |
-| **Sprint-1** | User Authentication | **USN-2** | As a user, I can log into the application using email and password to receive a JWT. | 2 | High | mandala nandu yadav |
-| **Sprint-1** | Security & Context | **USN-3** | As a developer, I want AuthContext and Axios interceptors to secure private client routes. | 3 | High | mandala nandu yadav |
-| **Sprint-2** | Product Catalog | **USN-4** | As a developer, I want to create MongoDB schemas and seed products for catalog pages. | 2 | Medium | mandala nandu yadav |
-| **Sprint-2** | Product Catalog | **USN-5** | As a customer, I can browse a list of products and view detailed product info pages. | 3 | High | mandala nandu yadav |
-| **Sprint-2** | Catalog Filtering | **USN-6** | As a customer, I can filter products by category and sort by price, ratings, or discounts. | 4 | High | mandala nandu yadav |
-| **Sprint-3** | Cart Management | **USN-7** | As a customer, I can add, update, and remove items in my persistent cart. | 3 | High | mandala nandu yadav |
-| **Sprint-3** | Cart Management | **USN-8** | As a customer, I can see my cart details, item quantities, and subtotal dynamically computed. | 2 | High | mandala nandu yadav |
-| **Sprint-3** | Order Checkout | **USN-9** | As a customer, I can fill out my address, select a payment option, and submit an order. | 4 | High | mandala nandu yadav |
-| **Sprint-4** | Admin Dashboard | **USN-10** | As an admin, I can log into a role-guarded dashboard to manage inventory products. | 4 | High | mandala nandu yadav |
-| **Sprint-4** | Admin Controls | **USN-11** | As an admin, I can create and delete products, and customize the store banner or categories. | 5 | High | mandala nandu yadav |
-| **Sprint-4** | Admin Monitoring | **USN-12** | As an admin, I can view all placed orders in the system to verify transaction details. | 3 | Medium | mandala nandu yadav |
+| **Sprint-1** | User Authentication | **USN-1** | As a user, I can register for the application with username, email, and password. | 3 | High | pabbathireddy pooja rani |
+| **Sprint-1** | User Authentication | **USN-2** | As a user, I can log into the application using email and password to receive a JWT. | 2 | High | pabbathireddy pooja rani |
+| **Sprint-1** | Security & Context | **USN-3** | As a developer, I want AuthContext and Axios interceptors to secure private client routes. | 3 | High | pabbathireddy pooja rani |
+| **Sprint-2** | Product Catalog | **USN-4** | As a developer, I want to create MongoDB schemas and seed products for catalog pages. | 2 | Medium | pabbathireddy pooja rani |
+| **Sprint-2** | Product Catalog | **USN-5** | As a customer, I can browse a list of products and view detailed product info pages. | 3 | High | pabbathireddy pooja rani |
+| **Sprint-2** | Catalog Filtering | **USN-6** | As a customer, I can filter products by category and sort by price, ratings, or discounts. | 4 | High | pabbathireddy pooja rani |
+| **Sprint-3** | Cart Management | **USN-7** | As a customer, I can add, update, and remove items in my persistent cart. | 3 | High | pabbathireddy pooja rani |
+| **Sprint-3** | Cart Management | **USN-8** | As a customer, I can see my cart details, item quantities, and subtotal dynamically computed. | 2 | High | pabbathireddy pooja rani |
+| **Sprint-3** | Order Checkout | **USN-9** | As a customer, I can fill out my address, select a payment option, and submit an order. | 4 | High | pabbathireddy pooja rani |
+| **Sprint-4** | Admin Dashboard | **USN-10** | As an admin, I can log into a role-guarded dashboard to manage inventory products. | 4 | High | pabbathireddy pooja rani |
+| **Sprint-4** | Admin Controls | **USN-11** | As an admin, I can create and delete products, and customize the store banner or categories. | 5 | High | pabbathireddy pooja rani |
+| **Sprint-4** | Admin Monitoring | **USN-12** | As an admin, I can view all placed orders in the system to verify transaction details. | 3 | Medium | pabbathireddy pooja rani |
 
 __Project Tracker, Velocity & Burndown Chart: \(4 Marks\)__
 
